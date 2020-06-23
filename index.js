@@ -7,4 +7,7 @@ let dodger = document.getElementById("dodger");
 function moveDodgerLeft(){
   
 }
-    
+  
+function moveDodgerRight(){
+  
+}  
